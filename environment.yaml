@@ -1,0 +1,44 @@
+name: project-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python>=3.10
+  - brotli-python
+  - bzip2
+  - ca-certificates
+  - certifi
+  - charset-normalizer
+  - idna
+  - joblib
+  - libblas
+  - libcblas
+  - libcxx
+  - libffi
+  - libgfortran
+  - libgfortran5
+  - liblapack
+  - libopenblas
+  - libsqlite
+  - libzlib
+  - llvm-openmp
+  - ncurses
+  - numpy
+  - openssl
+  - packaging
+  - pip
+  - platformdirs
+  - pooch
+  - pysocks
+  - readline
+  - requests
+  - scikit-learn
+  - scipy
+  - setuptools
+  - tk
+  - urllib3
+  - wheel
+  - xz
+  - jupyterlab  # Ensure JupyterLab is installed
+
+prefix: /Users/robertalifeguard/anaconda3/envs/dstoolbox
